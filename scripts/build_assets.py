@@ -246,7 +246,7 @@ def stats_block(d):
 # ---------------------------------------------------------------- commit
 
 def commit(paths):
-    changed = subprocess.run(["git", "status", "--porcelain", "--"] + paths, cwd=ROOT,
+    changed = subprocess.run(["git", "diff", "--name-only", "--"] + paths, cwd=ROOT,
                              capture_output=True, text=True, check=True).stdout.strip()
     if not changed:
         print("nothing changed")
@@ -257,7 +257,7 @@ def commit(paths):
                           text=True, check=True).stdout.strip()
     adds = []
     for line in changed.splitlines():
-        path = line[3:]
+        path = line.strip()
         with open(os.path.join(ROOT, path), "rb") as f:
             adds.append({"path": path, "contents": base64.b64encode(f.read()).decode()})
     out = graphql(
