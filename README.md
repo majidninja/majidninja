@@ -28,7 +28,7 @@ I run servers and keep them running. That means DevOps, Linux, and a fair amount
 <a href="https://github.com/search?q=author%3Amajidninja+is%3Apr+is%3Amerged+-user%3Amajidninja&amp;type=pullrequests">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-    <img src="assets/stats-light.svg" width="100%" alt="16 pull requests merged into 7 other people's repositories. 93 contributions in the last year. 4 of my own public repos with 4 stars. Latest releases: rotcheck v1.2.0, whatchanged v0.1.0. Data as of 2026-11-02.">
+    <img src="assets/stats-light.svg" width="100%" alt="16 pull requests merged into 7 other people's repositories. 96 contributions in the last year. 4 of my own public repos with 4 stars. Latest releases: rotcheck v1.2.0, whatchanged v0.1.0. Data as of 2026-11-02.">
   </picture>
 </a>
 <!-- stats-card:end -->
