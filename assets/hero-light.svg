@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Terminal introducing Majid Ali, DevOps engineer, server master and security expert, next to a server rack.">
+<style>text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace} .b{font-weight:700} @keyframes blink{50%{opacity:0}} .cur{animation:blink 1.1s step-end infinite} @keyframes led{0%,100%{opacity:1}40%{opacity:.25}} .led{animation:led 1.6s ease-in-out infinite}</style>
+<rect x="0.5" y="0.5" width="899" height="299" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="1" y="1" width="898" height="34" rx="12" fill="#f6f8fa"/>
+<rect x="1" y="22" width="898" height="13" fill="#f6f8fa"/>
+<line x1="1" y1="35" x2="899" y2="35" stroke="#d0d7de"/>
+<circle cx="22" cy="18" r="6" fill="#cf222e"/>
+<circle cx="42" cy="18" r="6" fill="#9a6700"/>
+<circle cx="62" cy="18" r="6" fill="#1a7f37"/>
+<text x="450" y="23" fill="#59636e" font-size="13" text-anchor="middle" xml:space="preserve">majid@ninja: ~</text>
+<text x="28" y="70" font-size="15" xml:space="preserve"><tspan fill="#1a7f37" class="b">majid@ninja</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#0969da" class="b">~</tspan><tspan fill="#1f2328">$ </tspan><tspan fill="#1f2328">whoami --verbose</tspan></text>
+<text x="28" y="95" font-size="15" xml:space="preserve"><tspan fill="#1f2328" class="b">Majid Ali</tspan></text>
+<text x="28" y="120" font-size="15" xml:space="preserve"><tspan fill="#59636e">DevOps engineer · server master · security expert</tspan></text>
+<text x="28" y="145" font-size="15" xml:space="preserve"><tspan fill="#59636e">Ramallah · majid.ninja</tspan></text>
+<text x="28" y="170" font-size="15" xml:space="preserve"><tspan fill="#1a7f37" class="b">majid@ninja</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#0969da" class="b">~</tspan><tspan fill="#1f2328">$ </tspan><tspan fill="#1f2328">systemctl status majid</tspan></text>
+<text x="28" y="195" font-size="15" xml:space="preserve"><tspan fill="#1a7f37">● </tspan><tspan fill="#1f2328" class="b">majid.service</tspan><tspan fill="#59636e"> - keeps servers up and attackers out</tspan></text>
+<text x="28" y="220" font-size="15" xml:space="preserve"><tspan fill="#59636e">     Active: </tspan><tspan fill="#1a7f37" class="b">active (running)</tspan><tspan fill="#59636e"> since 2023-08-31</tspan></text>
+<text x="28" y="245" font-size="15" xml:space="preserve"><tspan fill="#59636e">      Tasks: </tspan><tspan fill="#1f2328">bash scripts, hardware, games</tspan></text>
+<text x="28" y="270" font-size="15" xml:space="preserve"><tspan fill="#1a7f37" class="b">majid@ninja</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#0969da" class="b">~</tspan><tspan fill="#1f2328">$ </tspan><tspan fill="#1f2328" class="cur">█</tspan></text>
+<rect x="690" y="58" width="170" height="214" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="702" y="70" width="146" height="25" rx="4" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="714" y="81" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="728" y="81" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="742" y="81" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="756" y="81" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="770" y="81" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<circle class="led" style="animation-delay:0.0s" cx="820" cy="82" r="3.5" fill="#1a7f37"/>
+<circle class="led" style="animation-delay:0.8s" cx="834" cy="82" r="3.5" fill="#1a7f37"/>
+<rect x="702" y="103" width="146" height="25" rx="4" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="714" y="114" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="728" y="114" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="742" y="114" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="756" y="114" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="770" y="114" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<circle class="led" style="animation-delay:0.4s" cx="820" cy="115" r="3.5" fill="#1a7f37"/>
+<circle class="led" style="animation-delay:1.2s" cx="834" cy="115" r="3.5" fill="#0969da"/>
+<rect x="702" y="136" width="146" height="25" rx="4" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="714" y="147" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="728" y="147" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="742" y="147" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="756" y="147" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="770" y="147" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<circle class="led" style="animation-delay:0.7s" cx="820" cy="148" r="3.5" fill="#1a7f37"/>
+<circle class="led" style="animation-delay:1.5s" cx="834" cy="148" r="3.5" fill="#1a7f37"/>
+<rect x="702" y="169" width="146" height="25" rx="4" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="714" y="180" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="728" y="180" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="742" y="180" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="756" y="180" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="770" y="180" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<circle class="led" style="animation-delay:1.1s" cx="820" cy="181" r="3.5" fill="#1a7f37"/>
+<circle class="led" style="animation-delay:0.3s" cx="834" cy="181" r="3.5" fill="#0969da"/>
+<rect x="702" y="202" width="146" height="25" rx="4" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="714" y="213" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="728" y="213" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="742" y="213" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="756" y="213" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="770" y="213" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<circle class="led" style="animation-delay:1.5s" cx="820" cy="214" r="3.5" fill="#1a7f37"/>
+<circle class="led" style="animation-delay:0.7s" cx="834" cy="214" r="3.5" fill="#1a7f37"/>
+<rect x="702" y="235" width="146" height="25" rx="4" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="714" y="246" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="728" y="246" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="742" y="246" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="756" y="246" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<rect x="770" y="246" width="10" height="3" rx="1.5" fill="#d0d7de"/>
+<circle class="led" style="animation-delay:0.2s" cx="820" cy="247" r="3.5" fill="#1a7f37"/>
+<circle class="led" style="animation-delay:1.1s" cx="834" cy="247" r="3.5" fill="#0969da"/>
+</svg>
