@@ -39,7 +39,8 @@ I run servers and keep them running. That means DevOps, Linux, and a fair amount
 [![release](https://img.shields.io/github/v/release/majidninja/whatchanged?style=flat&logo=github&label=release&color=3fb950)](https://github.com/majidninja/whatchanged/releases/latest)<br>
 Something on your Linux box broke and it worked yesterday. `whatchanged --since yesterday` puts package upgrades, edited configs, new services and cron changes on one timeline, so you can see what moved. Read-only, no daemon, no network.
 
-**[whatchanged-action](https://github.com/majidninja/whatchanged-action)**<br>
+**[whatchanged-action](https://github.com/majidninja/whatchanged-action)** &nbsp;
+[![release](https://img.shields.io/github/v/release/majidninja/whatchanged-action?style=flat&logo=github&label=release&color=3fb950)](https://github.com/majidninja/whatchanged-action/releases/latest)<br>
 The same idea for CI: a GitHub Action that shows what a job changed on its runner (packages, `/etc`, systemd, cron). Useful when a pipeline passes and then the next one mysteriously doesn't.
 
 **[rotcheck](https://github.com/majidninja/rotcheck)** &nbsp;
